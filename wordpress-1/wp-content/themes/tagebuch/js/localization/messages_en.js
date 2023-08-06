@@ -1,0 +1,2 @@
+// JavaScript Document
+// Kept empty

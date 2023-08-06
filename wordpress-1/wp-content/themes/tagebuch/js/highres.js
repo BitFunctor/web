@@ -1,0 +1,2 @@
+// Change Image SRC attribute if an high resolution display is active
+jQuery(document).ready(function($){if(window.devicePixelRatio>=1.5){var _1=$('img');$.each(_1,function(i){if($(_1[i]).attr('data-high-resolution-src')){$(_1[i]).attr('src',$(_1[i]).attr('data-high-resolution-src'));}});}});

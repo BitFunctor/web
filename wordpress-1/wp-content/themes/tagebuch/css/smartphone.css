@@ -1,0 +1,59 @@
+/*
+ * Change your smartphone appearance here
+ * Author: Alexander Geilhaupt (HTML Kombinat)
+*/
+
+header a.header-logo img{
+	width:300px !important;
+	height:130px !important;	
+}
+
+.home-page-image-wrapper{
+	display:none;	
+}
+
+.article-container,
+.footer-wrapper{
+	width:95%;
+	margin:0 auto 0 auto;
+}
+
+#sidebar{
+	width:95% !important;
+	padding:0 0 0 10px;
+	overflow:hidden;	
+}
+
+#content,
+.content{
+	width:100% !important;
+	padding:0 !important;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="file"],
+textarea{
+	width:90%;
+}
+
+.content-left{
+	clear:both;
+	width:100%;
+	margin-right:0;
+	margin-bottom:14px;
+}
+
+.content-right{
+	clear:both;
+	width:100%;
+	margin-bottom:14px;
+}
+
+.content .widget a{
+	padding:0 !important;
+	margin:0 !important;
+	background:none !important;
+	display:inline !important;	
+}
+

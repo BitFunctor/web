@@ -1,0 +1,1252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HTML Kombinat\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-05 17:57+0100\n"
+"PO-Revision-Date: 2013-04-05 18:58+0100\n"
+"Last-Translator: Alex <alex@getahost.de>\n"
+"Language-Team: Alexander Geilhaupt <alex@geilhaupt.com>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPath-2: ..\\core\\classes\n"
+"X-Poedit-SearchPath-3: ..\\core\\administration\n"
+
+#: ../404.php:26
+msgid "Error 404"
+msgstr "Fehler 404"
+
+#: ../404.php:27
+msgid "Sorry, but you're looking for something, that isn't here."
+msgstr "Pardon, aber Du suchst nach etwas, das es hier nicht gibt."
+
+#: ../404.php:30
+msgid "Maybe you like to read one of the last posts."
+msgstr "Schau doch einfach in die letzten Artikel"
+
+#: ../archive.php:28
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Archiv für den %s"
+
+#: ../archive.php:30
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Archiv für den Monat %s"
+
+#: ../archive.php:32
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Archiv für das Jahr %s"
+
+#: ../archive.php:34
+msgid "Blog Archives"
+msgstr "Archiv"
+
+#: ../archive.php:42 ../archive.php:58 ../archive.php:61 ../author.php:48
+#: ../author.php:64 ../author.php:67 ../category.php:38 ../category.php:54
+#: ../category.php:57 ../index.php:34 ../index.php:47 ../index.php:50
+#: ../index.php:57 ../search.php:33 ../search.php:49 ../search.php:52
+#: ../tag.php:38 ../tag.php:54 ../tag.php:57
+#, php-format
+msgid "Permalink to %s"
+msgstr "Permalink zu %s"
+
+#: ../archive.php:47 ../author.php:53 ../category.php:43 ../index.php:38
+#: ../search.php:38 ../single.php:48 ../tag.php:43
+#, php-format
+msgid "View all posts by %s"
+msgstr "Alles Artikel von %s anzeigen"
+
+#: ../archive.php:48 ../author.php:54 ../category.php:44 ../index.php:39
+#: ../search.php:39 ../single.php:33 ../tag.php:44
+msgid "Leave a Reply"
+msgstr "Kommentar hinterlassen"
+
+#: ../archive.php:48 ../author.php:54 ../category.php:44 ../index.php:39
+#: ../search.php:39 ../tag.php:44
+msgid "1 Reply"
+msgstr "Ein Kommentar"
+
+#: ../archive.php:48 ../author.php:54 ../category.php:44 ../index.php:39
+#: ../search.php:39 ../single.php:33 ../tag.php:44
+msgid "% Replies"
+msgstr "% Kommentare"
+
+#: ../archive.php:48 ../author.php:54 ../category.php:44 ../index.php:39
+#: ../search.php:39 ../single.php:33 ../tag.php:44
+msgid "Comments are closed"
+msgstr "Kommentare sind geschlossen"
+
+#: ../archive.php:49 ../author.php:55 ../category.php:45 ../index.php:40
+#: ../search.php:40 ../single.php:49 ../tag.php:45
+#: ../core/classes/htmlkombinat-class.php:597
+#: ../core/classes/htmlkombinat-class.php:612
+#: ..\core\classes/htmlkombinat-class.php:597
+#: ..\core\classes/htmlkombinat-class.php:612
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: ../archive.php:51 ../author.php:57 ../category.php:47 ../search.php:42
+#: ../tag.php:47
+msgid "Page"
+msgstr "Seite"
+
+#: ../archive.php:61 ../author.php:67 ../category.php:57 ../index.php:50
+#: ../index.php:55 ../index.php:57 ../search.php:52 ../tag.php:57
+msgid "<span class=\"read-more\">Continue reading</span>"
+msgstr "<span class=\"read-more\">Weiterlesen</span>"
+
+#: ../archive.php:69 ../author.php:75 ../category.php:65 ../index.php:68
+#: ../search.php:60 ../tag.php:65
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+#: ../archive.php:73 ../author.php:79 ../category.php:69 ../index.php:71
+#: ../search.php:65 ../tag.php:69
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+"Pardon, leider wurde nicht das gefunden, wonach Du suchst. Vielleicht hilft "
+"Dir die Suche weiter."
+
+#: ../author.php:27
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Archiv von %s"
+
+#: ../author.php:36 ../single.php:60
+msgid "About"
+msgstr "Über"
+
+#: ../category.php:26
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Archiv für die Kategorie %s"
+
+#: ../comments.php:22
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Dieser Artikel ist passwortgeschützt. Bitte geben Sie das Passwort ein, um "
+"die Kommentare anzusehen."
+
+#: ../comments.php:30
+msgid "No comments so far"
+msgstr "Bisher keine Kommentare"
+
+#: ../comments.php:30
+msgid "One Comment"
+msgstr "Ein Kommentar"
+
+#: ../comments.php:30
+msgid "% Comments"
+msgstr "% Kommentare"
+
+#: ../comments.php:39
+msgid "&larr; Older Comments"
+msgstr "&larr; Ältere Kommentare"
+
+#: ../comments.php:40
+msgid "Newer Comments &rarr;"
+msgstr "Jüngere Kommentare &rarr;"
+
+#: ../comments.php:47
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: ../footer.php:28
+msgid "Footer Widget left"
+msgstr "Footer Widget links"
+
+#: ../footer.php:35
+msgid "Footer Widget Middle"
+msgstr "Footer Widget mitte"
+
+#: ../footer.php:42
+msgid "Footer Widget right"
+msgstr "Footer Widget rechts"
+
+#: ../footer.php:54
+msgid "Proudly powered by"
+msgstr "Stolz präsentiert von "
+
+#: ../footer.php:54
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: ../index.php:30 ../single.php:30
+msgid "Featured"
+msgstr "Top-Thema"
+
+#: ../search.php:26
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für %s"
+
+#: ../searchform.php:20 ../searchform.php:22
+msgid "Search"
+msgstr "Suche"
+
+#: ../searchform.php:21
+msgid "Search + Enter"
+msgstr "Suche + Enter"
+
+#: ../sidebar.php:20
+msgid "Archives"
+msgstr "Archive"
+
+#: ../sidebar.php:27
+msgid "Meta"
+msgstr "Meta"
+
+#: ../single.php:33
+msgid "One Reply"
+msgstr "Ein Kommentar"
+
+#: ../tag.php:26
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Archiv für das Schlagwort %s"
+
+#: ../core/administration/administration.php:8
+#: ../core/classes/adminpage-class.php:60
+#: ..\core\classes/adminpage-class.php:60
+#: ..\core\administration/administration.php:8
+msgid "Configuration"
+msgstr "Einstellungen"
+
+#: ../core/administration/administration.php:9
+#: ..\core\administration/administration.php:9
+#, php-format
+msgid "Thank you for using HTML Kombinat's %s Theme!"
+msgstr "Vielen Dank, dass Du das %s Theme von HTML Kombinat benutzt!"
+
+#: ../core/administration/administration.php:11
+#: ..\core\administration/administration.php:11
+msgid "Options Saved"
+msgstr "Einstellungen gespeichert"
+
+#: ../core/classes/administration-class.php:40
+#: ../core/classes/administration-class.php:47
+#: ..\core\classes/administration-class.php:40
+#: ..\core\classes/administration-class.php:47
+#, php-format
+msgid "The %s Theme supports retina displays!"
+msgstr "Das %s Theme unterstützt Retina-Displays"
+
+#: ../core/classes/administration-class.php:41
+#: ..\core\classes/administration-class.php:41
+msgid ""
+"Every image loads in high resolution. For best appearance, leave these "
+"options as they are."
+msgstr ""
+"Jedes Bild wird in hoher Auflösung geladen. Daher diese Einstellungen bitte "
+"so lassen, wie sie sind."
+
+#: ../core/classes/administration-class.php:48
+#: ..\core\classes/administration-class.php:48
+msgid ""
+"The displayed resolution of the header image on your website is half of the "
+"resolution displayed on this page."
+msgstr "Dein Logo wird auf Deiner Website nur halb so groß angezeigt wie hier."
+
+#: ../core/classes/adminpage-class.php:60
+#: ..\core\classes/adminpage-class.php:60
+msgid "Theme Options"
+msgstr "Themeoptionen"
+
+#: ../core/classes/adminpage-class.php:117
+#: ..\core\classes/adminpage-class.php:117
+msgid "General Layout Settings"
+msgstr "Layouteinstellungen"
+
+#: ../core/classes/adminpage-class.php:118
+#: ..\core\classes/adminpage-class.php:118
+msgid "Contact Form &amp; Address"
+msgstr "Kontaktformular &amp; Adresse"
+
+#: ../core/classes/adminpage-class.php:119
+#: ..\core\classes/adminpage-class.php:119
+msgid "Social Icons"
+msgstr "Social Icons"
+
+#: ../core/classes/adminpage-class.php:120
+#: ..\core\classes/adminpage-class.php:120
+msgid "Webmaster Tools"
+msgstr "Webmaster Tools"
+
+#: ../core/classes/adminpage-class.php:121
+#: ../core/classes/adminpage-class.php:560
+#: ..\core\classes/adminpage-class.php:121
+#: ..\core\classes/adminpage-class.php:560
+msgid "Custom CSS"
+msgstr "Eigene CSS"
+
+#: ../core/classes/adminpage-class.php:122
+#: ..\core\classes/adminpage-class.php:122
+msgid "Custom Scripts"
+msgstr "Eigene Scripte"
+
+#: ../core/classes/adminpage-class.php:124
+#: ..\core\classes/adminpage-class.php:124
+msgid "Your Logo"
+msgstr "Dein Logo"
+
+#: ../core/classes/adminpage-class.php:125
+#: ../core/classes/adminpage-class.php:648
+#: ..\core\classes/adminpage-class.php:125
+#: ..\core\classes/adminpage-class.php:648
+msgid "Restore all Defaults"
+msgstr "Auf Werkseinstellung zurücksetzen"
+
+#: ../core/classes/adminpage-class.php:126
+#: ..\core\classes/adminpage-class.php:126
+msgid "About the Author"
+msgstr "Über den Autor"
+
+#: ../core/classes/adminpage-class.php:143
+#: ..\core\classes/adminpage-class.php:143
+msgid "Show Content left / Sidebar right"
+msgstr "Zeige Inhalt links / Sidebar rechts"
+
+#: ../core/classes/adminpage-class.php:147
+#: ..\core\classes/adminpage-class.php:147
+msgid "Show Content right / Sidebar left"
+msgstr "Zeige Inhalt rechts / Sidebar links"
+
+#: ../core/classes/adminpage-class.php:151
+#: ..\core\classes/adminpage-class.php:151
+msgid "Show full width"
+msgstr "Ohne Sidebar"
+
+#: ../core/classes/adminpage-class.php:158
+#: ..\core\classes/adminpage-class.php:158
+msgid "Show Excerpt"
+msgstr "Zeige nur Auszug"
+
+#: ../core/classes/adminpage-class.php:162
+#: ..\core\classes/adminpage-class.php:162
+msgid "Show Full Posts"
+msgstr "Zeige gesamten Artikel"
+
+#: ../core/classes/adminpage-class.php:172
+#: ..\core\classes/adminpage-class.php:172
+msgid "Support Retina Displays"
+msgstr "Unterstützung für Retina Displays"
+
+#: ../core/classes/adminpage-class.php:176
+#: ..\core\classes/adminpage-class.php:176
+msgid ""
+"If you want to support Retina Displays, thumbnail images will be sized "
+"double as shown. This will only work for future images."
+msgstr ""
+"Wenn Du Retina Displays unterstützen möchtest, werden Alle Thumbnails in der "
+"doppelten Größe gespeichert. Funktioniert nur bei allen zukünftig "
+"hochgeladenen Bildern."
+
+#: ../core/classes/adminpage-class.php:181
+#: ..\core\classes/adminpage-class.php:181
+msgid "Page Appearance"
+msgstr "Seitendarstellung"
+
+#: ../core/classes/adminpage-class.php:193
+#: ..\core\classes/adminpage-class.php:193
+msgid "Blog Appearance"
+msgstr "Blogdarstellung"
+
+#: ../core/classes/adminpage-class.php:205
+#: ..\core\classes/adminpage-class.php:205
+msgid "Article Appearance"
+msgstr "Artikeldarstellung"
+
+#: ../core/classes/adminpage-class.php:217
+#: ..\core\classes/adminpage-class.php:217
+msgid "Post Format on Blog Pages"
+msgstr "Artikelformat auf Blogseiten"
+
+#: ../core/classes/adminpage-class.php:230
+#: ../core/classes/adminpage-class.php:404
+#: ../core/classes/adminpage-class.php:477
+#: ../core/classes/adminpage-class.php:537
+#: ../core/classes/adminpage-class.php:570
+#: ../core/classes/adminpage-class.php:612
+#: ..\core\classes/adminpage-class.php:230
+#: ..\core\classes/adminpage-class.php:404
+#: ..\core\classes/adminpage-class.php:477
+#: ..\core\classes/adminpage-class.php:537
+#: ..\core\classes/adminpage-class.php:570
+#: ..\core\classes/adminpage-class.php:612
+msgid "Save Changes"
+msgstr "Einstellungen speichern"
+
+#: ../core/classes/adminpage-class.php:232
+#: ../core/classes/adminpage-class.php:406
+#: ../core/classes/adminpage-class.php:479
+#: ../core/classes/adminpage-class.php:539
+#: ../core/classes/adminpage-class.php:572
+#: ../core/classes/adminpage-class.php:614
+#: ..\core\classes/adminpage-class.php:232
+#: ..\core\classes/adminpage-class.php:406
+#: ..\core\classes/adminpage-class.php:479
+#: ..\core\classes/adminpage-class.php:539
+#: ..\core\classes/adminpage-class.php:572
+#: ..\core\classes/adminpage-class.php:614
+msgid "Restore Defaults"
+msgstr "Werkseinstellungen"
+
+#: ../core/classes/adminpage-class.php:254
+#: ..\core\classes/adminpage-class.php:254
+msgid ""
+"You can insert a contact form with the shortcode <code>[hk_contact_form]</"
+"code>."
+msgstr ""
+"Du kannst das Kontaktformular auf jeder beliebigen Seite mit dem Shortcode "
+"<code>[hk_contact_form]</code> aufrufen."
+
+#: ../core/classes/adminpage-class.php:259
+#: ..\core\classes/adminpage-class.php:259
+msgid "Subject"
+msgstr "Betreff"
+
+#: ../core/classes/adminpage-class.php:267
+#: ..\core\classes/adminpage-class.php:267
+msgid "Recipient"
+msgstr "Empfänger"
+
+#: ../core/classes/adminpage-class.php:274
+#: ..\core\classes/adminpage-class.php:274
+msgid "Options"
+msgstr "Optionen"
+
+#: ../core/classes/adminpage-class.php:277
+#: ..\core\classes/adminpage-class.php:277
+msgid "Name is required"
+msgstr "Name ist ein Pflichtfeld"
+
+#: ../core/classes/adminpage-class.php:279
+#: ..\core\classes/adminpage-class.php:279
+msgid "Email is required"
+msgstr "eMail ist ein Pflichtfeld"
+
+#: ../core/classes/adminpage-class.php:284
+#: ..\core\classes/adminpage-class.php:284
+msgid "Additional Field 1"
+msgstr "Zusatzfeld 1"
+
+#: ../core/classes/adminpage-class.php:289
+#: ../core/classes/adminpage-class.php:299
+#: ..\core\classes/adminpage-class.php:289
+#: ..\core\classes/adminpage-class.php:299
+msgid "Required field"
+msgstr "Pflichtfeld"
+
+#: ../core/classes/adminpage-class.php:294
+#: ..\core\classes/adminpage-class.php:294
+msgid "Additional Field 2"
+msgstr "Zusatzfeld 2"
+
+#: ../core/classes/adminpage-class.php:304
+#: ..\core\classes/adminpage-class.php:304
+msgid "Success Message"
+msgstr "Erfolgsmeldung"
+
+#: ../core/classes/adminpage-class.php:308
+#: ..\core\classes/adminpage-class.php:308
+msgid "The Success Message appears when the email is send successfully"
+msgstr "Die Erfolgsmeldung erscheint nach dem Versenden der eMail"
+
+#: ../core/classes/adminpage-class.php:313
+#: ..\core\classes/adminpage-class.php:313
+msgid "Error Message"
+msgstr "Fehlermeldung"
+
+#: ../core/classes/adminpage-class.php:317
+#: ..\core\classes/adminpage-class.php:317
+msgid "The Error Message appears when the email is not send."
+msgstr ""
+"Die Fehlermeldung erscheint, wenn die eMail nicht verschickt werden konnte."
+
+#: ../core/classes/adminpage-class.php:326
+#: ..\core\classes/adminpage-class.php:326
+msgid ""
+"You can insert a contact address with the shortcode <code>[hk_contact_adress]"
+"</code> or a contact address map with <code>[hk_contact_map]</code>."
+msgstr ""
+"Du kannst die Adresse mit dem Shortcode <code>[hk_contact_adress]</code> "
+"einbinden. Eine Google Maps Karte kannst Du mit dem Shortcode <code>"
+"[hk_contact_map]</code> generieren."
+
+#: ../core/classes/adminpage-class.php:331
+#: ..\core\classes/adminpage-class.php:331
+msgid "Your name (e.g. Organisation)"
+msgstr "Dein Name (oder Deine Organisation)"
+
+#: ../core/classes/adminpage-class.php:339
+#: ..\core\classes/adminpage-class.php:339
+msgid "Street"
+msgstr "Straße"
+
+#: ../core/classes/adminpage-class.php:347
+#: ..\core\classes/adminpage-class.php:347
+msgid "ZIP"
+msgstr "Postleitzahl"
+
+#: ../core/classes/adminpage-class.php:355
+#: ..\core\classes/adminpage-class.php:355
+msgid "City"
+msgstr "Stadt"
+
+#: ../core/classes/adminpage-class.php:363
+#: ..\core\classes/adminpage-class.php:363
+msgid "State"
+msgstr "Bundesland"
+
+#: ../core/classes/adminpage-class.php:371
+#: ..\core\classes/adminpage-class.php:371
+msgid "Country"
+msgstr "Land"
+
+#: ../core/classes/adminpage-class.php:379
+#: ../core/classes/htmlkombinat-class.php:130
+#: ..\core\classes/adminpage-class.php:379
+#: ..\core\classes/htmlkombinat-class.php:130
+msgid "Phone"
+msgstr "Telefon"
+
+#: ../core/classes/adminpage-class.php:387
+#: ..\core\classes/adminpage-class.php:387
+msgid "Facsimile"
+msgstr "Fax"
+
+#: ../core/classes/adminpage-class.php:395
+#: ../core/classes/htmlkombinat-class.php:645
+#: ../core/classes/htmlkombinat-class.php:800
+#: ../core/classes/htmlkombinat-class.php:854
+#: ..\core\classes/adminpage-class.php:395
+#: ..\core\classes/htmlkombinat-class.php:645
+#: ..\core\classes/htmlkombinat-class.php:800
+#: ..\core\classes/htmlkombinat-class.php:854
+msgid "Email"
+msgstr "eMail"
+
+#: ../core/classes/adminpage-class.php:428
+#: ..\core\classes/adminpage-class.php:428
+msgid "You on Facebook"
+msgstr "Deine Facebookseite"
+
+#: ../core/classes/adminpage-class.php:436
+#: ..\core\classes/adminpage-class.php:436
+msgid "You on Twitter"
+msgstr "Deine Twitterseite"
+
+#: ../core/classes/adminpage-class.php:444
+#: ..\core\classes/adminpage-class.php:444
+msgid "You on Google+"
+msgstr "Dein Google Plus Profil"
+
+#: ../core/classes/adminpage-class.php:452
+#: ..\core\classes/adminpage-class.php:452
+msgid "You on flickr"
+msgstr "Deine flickr URL"
+
+#: ../core/classes/adminpage-class.php:460
+#: ..\core\classes/adminpage-class.php:460
+msgid "You on XING"
+msgstr "Dein XING Profil"
+
+#: ../core/classes/adminpage-class.php:468
+#: ..\core\classes/adminpage-class.php:468
+msgid "You on LinkedIn"
+msgstr "Dein linkedin Profil"
+
+#: ../core/classes/adminpage-class.php:500
+#: ..\core\classes/adminpage-class.php:500
+msgid "Google Site Verification"
+msgstr "Google Site Verification"
+
+#: ../core/classes/adminpage-class.php:504
+#: ..\core\classes/adminpage-class.php:504
+msgid "Enter your Google ID number only."
+msgstr "Bitte nur die Google-Verifizierungs-Nummer eingeben."
+
+#: ../core/classes/adminpage-class.php:509
+#: ..\core\classes/adminpage-class.php:509
+msgid "Bing Site Verification"
+msgstr "Bing Site Verification"
+
+#: ../core/classes/adminpage-class.php:513
+#: ..\core\classes/adminpage-class.php:513
+msgid "Enter your Bing ID number only."
+msgstr "Bitte nur die Bing-Verifizierungs-Nummer eingeben."
+
+#: ../core/classes/adminpage-class.php:518
+#: ..\core\classes/adminpage-class.php:518
+msgid "Yahoo Site Verification"
+msgstr "Yahoo Site Verification"
+
+#: ../core/classes/adminpage-class.php:522
+#: ..\core\classes/adminpage-class.php:522
+msgid "Enter your Yahoo ID number only."
+msgstr "Bitte nur die Yahoo-Verifizierungs-Nummer eingeben."
+
+#: ../core/classes/adminpage-class.php:527
+#: ..\core\classes/adminpage-class.php:527
+msgid "Site tracking code"
+msgstr "Tracking Code für Deine Seite"
+
+#: ../core/classes/adminpage-class.php:531
+#: ..\core\classes/adminpage-class.php:531
+msgid ""
+"For example Google Analytics code including <code>&lt;script&gt;</code> tag."
+msgstr ""
+"Zum Beispiel Google Analytics Code mit dem <code>&lt;script&gt;</code> Tag."
+
+#: ../core/classes/adminpage-class.php:564
+#: ..\core\classes/adminpage-class.php:564
+msgid ""
+"Your Custom CSS appear in the <code>&lt;head&gt;</code> tag.<br />Do not "
+"include the <code>&lt;style&gt;</code> tag."
+msgstr ""
+"Dei eigenen CSS erscheinen im <code>&lt;head&gt;</code> Deiner Seite. Füge "
+"keinen <code>&lt;style&gt;</code> Tag hinzu."
+
+#: ../core/classes/adminpage-class.php:593
+#: ..\core\classes/adminpage-class.php:593
+msgid "Custom Scripts header"
+msgstr "Eigene Scripte für den Kopfbereich"
+
+#: ../core/classes/adminpage-class.php:597
+#: ..\core\classes/adminpage-class.php:597
+msgid ""
+"This appears in the <code>&lt;head&gt;</code> tag.<br />Do not include the "
+"<code>&lt;script&gt;</code> tag."
+msgstr ""
+"Dei eigenen Scripte erscheinen im <code>&lt;head&gt;</code> Deiner Seite. "
+"Füge keinen <code>&lt;script&gt;</code> Tag hinzu."
+
+#: ../core/classes/adminpage-class.php:602
+#: ..\core\classes/adminpage-class.php:602
+msgid "Custom Scripts footer"
+msgstr "Eigene Scripte für den Fußbereich"
+
+#: ../core/classes/adminpage-class.php:606
+#: ..\core\classes/adminpage-class.php:606
+msgid ""
+"This appears before closing the <code>&lt;body&gt;</code> tag.<br />Do not "
+"include the <code>&lt;script&gt;</code> tag."
+msgstr ""
+"Dei eigenen Scripte erscheinen vor dem <code>&lt;/body&gt;</code> Tag Deiner "
+"Seite. Füge keinen <code>&lt;script&gt;</code> Tag hinzu."
+
+#: ../core/classes/adminpage-class.php:630
+#: ..\core\classes/adminpage-class.php:630
+msgid "You can change your logo at"
+msgstr "Du kannst Dein Logo hier verändern:"
+
+#: ../core/classes/adminpage-class.php:630
+#: ../core/classes/adminpage-class.php:632
+#: ../core/classes/adminpage-class.php:647
+#: ..\core\classes/adminpage-class.php:630
+#: ..\core\classes/adminpage-class.php:632
+#: ..\core\classes/adminpage-class.php:647
+msgid "Appearance"
+msgstr "Design"
+
+#: ../core/classes/adminpage-class.php:630
+#: ../core/classes/adminpage-class.php:632
+#: ../core/classes/adminpage-class.php:647
+#: ..\core\classes/adminpage-class.php:630
+#: ..\core\classes/adminpage-class.php:632
+#: ..\core\classes/adminpage-class.php:647
+msgid "Header"
+msgstr "Kopfzeile"
+
+#: ../core/classes/adminpage-class.php:632
+#: ..\core\classes/adminpage-class.php:632
+msgid "You don't have a logo yet. If you want to upload one, go to"
+msgstr "Du hast kein Logo bisher. Wenn Du eines hochladen möchtest, gehe zu"
+
+#: ../core/classes/adminpage-class.php:645
+#: ..\core\classes/adminpage-class.php:645
+msgid "This button could destroy your website!"
+msgstr "Achtung! Diese Button kann Deine Website (ein wenig) zerstören!"
+
+#: ../core/classes/adminpage-class.php:646
+#: ..\core\classes/adminpage-class.php:646
+msgid ""
+"If you click the &quot;Restore all Defaults&quot; button, all theme options "
+"will be set to default and you will loose all your data except your custom "
+"header. So please be carefull!"
+msgstr ""
+"Wenn Du  &quot;Auf Werkseinstellungen zurücksetzen&quot; klickst, werden "
+"sämtliche Einstellungen des Themes, bis auf Dein Logo, zurückgesetzt. Sei "
+"bitte vorsichtig!"
+
+#: ../core/classes/adminpage-class.php:647
+#: ..\core\classes/adminpage-class.php:647
+msgid "If you want to reset the custom header, please got to"
+msgstr "Wenn Du Dein Logo zurücksetzen möchtest, dann gehe zu"
+
+#: ../core/classes/adminpage-class.php:660
+#: ..\core\classes/adminpage-class.php:660
+msgid ""
+"My name is Alexander Geilhaupt (wich means something like &quot;horny "
+"head&quot;) and I'm a german web developer. I live in Berlin but I'm not a "
+"nerd. I love fast cars, the Autobahn, women and WordPress."
+msgstr ""
+"Mein Name ist Alexander Geilhaupt und ich bin ein deutscher Webentwickler. "
+"Ich lebe in Berlin, bin aber kein Nerd. Ich liebe schnelle Autos, die "
+"Autobahn, Frauen und WordPress."
+
+#: ../core/classes/adminpage-class.php:661
+#: ..\core\classes/adminpage-class.php:661
+msgid "Visit my Website"
+msgstr "Besuche meine Website"
+
+#: ../core/classes/htmlkombinat-class.php:127
+#: ..\core\classes/htmlkombinat-class.php:127
+msgid "Email via "
+msgstr "eMail via"
+
+#: ../core/classes/htmlkombinat-class.php:134
+#: ..\core\classes/htmlkombinat-class.php:134
+msgid "Thanks, your email was sent successfully."
+msgstr "Vielen Dank, Deine eMail wurde erfolgreich versendet."
+
+#: ../core/classes/htmlkombinat-class.php:135
+#: ..\core\classes/htmlkombinat-class.php:135
+msgid "The email wasn't send. Please fill up the following fields correctly."
+msgstr ""
+"Deine eMail wurde leider nicht versandt. Bitte prüfe die markierten Felder."
+
+#: ../core/classes/htmlkombinat-class.php:293
+#: ..\core\classes/htmlkombinat-class.php:293
+msgid "messages_en.js"
+msgstr "messages_de.js"
+
+#: ../core/classes/htmlkombinat-class.php:318
+#: ..\core\classes/htmlkombinat-class.php:318
+msgid "Primary Menu"
+msgstr "Hauptnavigation"
+
+#: ../core/classes/htmlkombinat-class.php:324
+#: ..\core\classes/htmlkombinat-class.php:324
+msgid "Secondary Menu"
+msgstr "Unternavigation"
+
+#: ../core/classes/htmlkombinat-class.php:371
+#: ..\core\classes/htmlkombinat-class.php:371
+msgid "Main Sidebar"
+msgstr "Standard Sidebar"
+
+#: ../core/classes/htmlkombinat-class.php:381
+#: ..\core\classes/htmlkombinat-class.php:381
+msgid "Page Sidebar"
+msgstr "Sidebar für Seiten"
+
+#: ../core/classes/htmlkombinat-class.php:391
+#: ..\core\classes/htmlkombinat-class.php:391
+msgid "Post Sidebar"
+msgstr "Sidebar für Artikel"
+
+#: ../core/classes/htmlkombinat-class.php:401
+#: ..\core\classes/htmlkombinat-class.php:401
+msgid "Footer Left"
+msgstr "Footer Links"
+
+#: ../core/classes/htmlkombinat-class.php:411
+#: ..\core\classes/htmlkombinat-class.php:411
+msgid "Footer Middle"
+msgstr "Footer Mitte"
+
+#: ../core/classes/htmlkombinat-class.php:421
+#: ..\core\classes/htmlkombinat-class.php:421
+msgid "Footer Right"
+msgstr "Footer Rechts"
+
+#: ../core/classes/htmlkombinat-class.php:476
+#: ..\core\classes/htmlkombinat-class.php:476
+#, php-format
+msgid "Page %s"
+msgstr "Seite %s"
+
+#: ../core/classes/htmlkombinat-class.php:597
+#: ..\core\classes/htmlkombinat-class.php:597
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: ../core/classes/htmlkombinat-class.php:613
+#: ..\core\classes/htmlkombinat-class.php:613
+#, php-format
+msgid "Said on %1$s at %2$s"
+msgstr "Meint am %1$s um %2$s"
+
+#: ../core/classes/htmlkombinat-class.php:615
+#: ..\core\classes/htmlkombinat-class.php:615
+msgid "Your comment is awaiting moderation."
+msgstr "Ihr Kommentar wird noch geprüft"
+
+#: ../core/classes/htmlkombinat-class.php:626
+#: ..\core\classes/htmlkombinat-class.php:626
+msgid "Reply <span>&darr;</span>"
+msgstr "Antworten <span>&darr;</span>"
+
+#: ../core/classes/htmlkombinat-class.php:644
+#: ../core/classes/htmlkombinat-class.php:798
+#: ../core/classes/htmlkombinat-class.php:853
+#: ..\core\classes/htmlkombinat-class.php:644
+#: ..\core\classes/htmlkombinat-class.php:798
+#: ..\core\classes/htmlkombinat-class.php:853
+msgid "Name"
+msgstr "Name"
+
+#: ../core/classes/htmlkombinat-class.php:646
+#: ..\core\classes/htmlkombinat-class.php:646
+msgid "Website"
+msgstr "Website"
+
+#: ../core/classes/htmlkombinat-class.php:651
+#: ..\core\classes/htmlkombinat-class.php:651
+msgid "Your email address will not be published."
+msgstr "Deine eMailadresse wird nicht veröffentlicht."
+
+#: ../core/classes/htmlkombinat-class.php:652
+#: ..\core\classes/htmlkombinat-class.php:652
+msgid "Comment"
+msgstr "Kommentar"
+
+#: ../core/classes/htmlkombinat-class.php:675
+#: ..\core\classes/htmlkombinat-class.php:675
+msgid "RSS-Feeds"
+msgstr "RSS-Feeds"
+
+#: ../core/classes/htmlkombinat-class.php:679
+#: ..\core\classes/htmlkombinat-class.php:679
+msgid " on "
+msgstr " auf "
+
+#: ../core/classes/htmlkombinat-class.php:792
+#: ..\core\classes/htmlkombinat-class.php:792
+msgid "Contact Form"
+msgstr "Kontaktformular"
+
+#: ../core/classes/htmlkombinat-class.php:810
+#: ..\core\classes/htmlkombinat-class.php:810
+msgid "Your Message"
+msgstr "Deine Nachricht"
+
+#: ../core/classes/htmlkombinat-class.php:812
+#: ..\core\classes/htmlkombinat-class.php:812
+msgid "Send Email"
+msgstr "eMail versenden"
+
+#: ../core/classes/htmlkombinat-class.php:828
+#: ..\core\classes/htmlkombinat-class.php:828
+msgid "The Name field is required"
+msgstr "Das Feld Name ist ein Pflichtfeld"
+
+#: ../core/classes/htmlkombinat-class.php:832
+#: ..\core\classes/htmlkombinat-class.php:832
+msgid "Please enter a valid Email address"
+msgstr "Bitte gib eine korrekte eMailadresse ein"
+
+#: ../core/classes/htmlkombinat-class.php:836
+#: ../core/classes/htmlkombinat-class.php:840
+#: ..\core\classes/htmlkombinat-class.php:836
+#: ..\core\classes/htmlkombinat-class.php:840
+#, php-format
+msgid "The %s field is required"
+msgstr "Das Feld %s ist ein Pflichtfeld"
+
+#: ../core/classes/htmlkombinat-class.php:844
+#: ..\core\classes/htmlkombinat-class.php:844
+msgid "The Message field is required"
+msgstr "Das Nachrichtenfeld ist ein Pflichtfeld"
+
+#: ../core/classes/htmlkombinat-class.php:848
+#: ..\core\classes/htmlkombinat-class.php:848
+msgid "Error"
+msgstr "Fehler"
+
+#: ../core/classes/htmlkombinat-class.php:852
+#: ..\core\classes/htmlkombinat-class.php:852
+msgid " From "
+msgstr "Von"
+
+#: ../core/classes/htmlkombinat-class.php:861
+#: ..\core\classes/htmlkombinat-class.php:861
+msgid "Message"
+msgstr "Nachricht"
+
+#: ../core/classes/htmlkombinat-class.php:878
+#: ..\core\classes/htmlkombinat-class.php:878
+msgid "Contact Adress"
+msgstr "Kontaktadresse"
+
+#: ../core/classes/htmlkombinat-class.php:931
+#: ..\core\classes/htmlkombinat-class.php:931
+msgid "hl=en"
+msgstr "hl=de"
+
+#: ../core/classes/widget-class.php:15 ..\core\classes/widget-class.php:15
+msgid "Submenu for pages"
+msgstr "Submenü für Seiten"
+
+#: ../core/classes/widget-class.php:16 ..\core\classes/widget-class.php:16
+msgid "A sub menu for your page sidebar to display child pages."
+msgstr "Submenü für die Sidebar, dass alle Unterseiten anzeigt."
+
+#: ../core/classes/widget-class.php:92 ..\core\classes/widget-class.php:92
+msgid "New title"
+msgstr "Neuer Titel"
+
+#: ../core/classes/widget-class.php:96 ..\core\classes/widget-class.php:96
+msgid "Title:"
+msgstr "Titel:"
+
+#~ msgid "Bottom Menu"
+#~ msgstr "Menü im Footer"
+
+#~ msgid "Top Menu"
+#~ msgstr "Menü oberer Rand"
+
+#~ msgid "Home Page Left"
+#~ msgstr "Startseite links"
+
+#~ msgid "Home Page Right"
+#~ msgstr "Startseite Rechts"
+
+#~ msgid ""
+#~ "Mag Kombinat is a full responsive WordPress theme for your portfolio."
+#~ msgstr ""
+#~ "Mag Kombinat ist ein voll responsives WordPress Theme für Dein Portfolio."
+
+#~ msgid "It comes with the HTML Kombinat Core and is easy to customize."
+#~ msgstr ""
+#~ "Es basiert auf dem HTML Kombinat Core und ist leicht zu individualisieren."
+
+#~ msgid "Check it out!"
+#~ msgstr "Schau es Dir an!"
+
+#~ msgid "Left Home Page Widget"
+#~ msgstr "Widget Startseite Links"
+
+#~ msgid "Put in some content for the left home page section"
+#~ msgstr "Füge Inhalte für den linken Teil Deiner Homepage hinzu"
+
+#~ msgid "Right Home Page Widget"
+#~ msgstr "Widget Startseite Rechts"
+
+#~ msgid "Put in some content for the right home page section"
+#~ msgstr "Füge Inhalte für den rechten Teil Deiner Startseite hinzu"
+
+#~ msgid "Homepage Template"
+#~ msgstr "Homepage Template"
+
+#~ msgid "Let the Headlines appear"
+#~ msgstr "Headlines anzeigen"
+
+#~ msgid ""
+#~ "Uncheck this box if you DON'T want to use the Headline sction on the "
+#~ "Homepage template"
+#~ msgstr ""
+#~ "Entferne das Häkchen, wenn Du KEINE Headlines im Homepage Template "
+#~ "anzeigen möchtest"
+
+#~ msgid "Homepage Headline"
+#~ msgstr "Homepage Headlin"
+
+#~ msgid ""
+#~ "The Homepage headline appears in the page template &quot;Home Page&quot;. "
+#~ "Don't keep it too long."
+#~ msgstr ""
+#~ "Die Headline erscheint im Homepage Template. Mach sie nicht zu lang."
+
+#~ msgid "Homepage Subheadline"
+#~ msgstr "Homepage Headline 2"
+
+#~ msgid ""
+#~ "The Homepage subheadline appears in the page template &quot;Home "
+#~ "Page&quot; below the Homepage Headline. Don't keep it too long."
+#~ msgstr ""
+#~ "Die Headline 2 erscheint im Homepage Template. Mach sie nicht zu lang."
+
+#~ msgid "Homepage Action Button Text"
+#~ msgstr "Homepage Action Button Text"
+
+#~ msgid ""
+#~ "Homepage Action Button appears in the page template &quot;Home Page&quot; "
+#~ "below the Homepage Subheadline. If you leave ist blank, the button won't "
+#~ "appear. Don't keep it too long."
+#~ msgstr ""
+#~ "Der Homepage Action Button erscheint im Homepage Template unterhalb der "
+#~ "Headline 2. Mach ihn nicht zu lang."
+
+#~ msgid "Homepage Action Button Link"
+#~ msgstr "Homepage Action Button Link"
+
+#~ msgid "URL the Homepage Action Button links to."
+#~ msgstr "URL auf den der Homepage Action Button verlinken soll."
+
+#~ msgid "Browse my Themes"
+#~ msgstr "Schau Dir meine anderen Themes an"
+
+#~ msgid "Report a bug"
+#~ msgstr "Bug gefunden?"
+
+#~ msgid "Important Notice!"
+#~ msgstr "Wichtiger Hinweis!"
+
+#~ msgid "Contact Page Template"
+#~ msgstr "Template Kontakt (Contact Page)"
+
+#~ msgid "Allow users to recieve a copy of the email."
+#~ msgstr "Erlaube dem Absender eine Kopie seiner eMail zu erhalten"
+
+#~ msgid "Navigation"
+#~ msgstr "Navigation"
+
+#~ msgid "Home"
+#~ msgstr "Home"
+
+#~ msgid ""
+#~ "You can make some changes here, such as how you posts should be displayed "
+#~ "(e.g. as excerp or full post)."
+#~ msgstr ""
+#~ "Du kannst hier einige Änderungen vornehmen, zum Beispiel, ob Du Auszüge "
+#~ "oder ganze Artikel auf Deiner Hauptseite darstellen möchtest."
+
+#~ msgid "Kombinat Drei Social Network Configuration"
+#~ msgstr "Kombinat Dre Soziale Netzwerke konfigurieren"
+
+#~ msgid "Kombinat Drei Logo &amp; Post Format"
+#~ msgstr "Kombinat Drei Logo &amp; Artikelformat"
+
+#~ msgid "Logo &amp; Post Format"
+#~ msgstr "Logo &amp; Artikelformat"
+
+#~ msgid "Custom home page image"
+#~ msgstr "Dein Bild für die Startseite"
+
+#~ msgid "Post format"
+#~ msgstr "Artikelformat"
+
+#~ msgid "Your Social Networks"
+#~ msgstr "Deine Sozialen Netzwerke"
+
+#~ msgid "The Default Image will be set if no article image is selected."
+#~ msgstr ""
+#~ "Das Standardbild wird gesetzt, wenn eine Seite oder ein Artikel kein "
+#~ "Artikelbild hat."
+
+#~ msgid "default Image"
+#~ msgstr "Standardbild"
+
+#~ msgid "Delete image (will be totally removed)."
+#~ msgstr "Logo löschen (wird komplett entfernt)."
+
+#~ msgid ""
+#~ "Select &quot;excerpt&quot; if you don't want to show full posts on the "
+#~ "main page"
+#~ msgstr ""
+#~ "Wähle &quot;excerpt&quot; wenn Du auf Deiner Startseite nur Auszüge "
+#~ "anzeigen lassen willst."
+
+#~ msgid ""
+#~ "The uploaded logo will replace the standard WordPress &lt;h1&gt; tag in "
+#~ "the header. For the best appearence use a PNG24 image with a height of "
+#~ "130px or change settings in the style.css file."
+#~ msgstr ""
+#~ "Dein Logo ersetzt den &lt;h1&gt-Tag im Kopfbereich der Seite. Wähle ein "
+#~ "Bild im PNG-Format mit einer Höhe von 130 Pixeln oder ändere die styles."
+#~ "css Datei im Ordner des Templates."
+
+#~ msgid ""
+#~ "The uploaded image will be displayed on the home page if you use the "
+#~ "&quot;Home Page&quot; template for your static front page. It should be "
+#~ "960px x 400px."
+#~ msgstr ""
+#~ "Das Bild wird auf der Startseite angezeigt, wenn Du das &quot;Home "
+#~ "Page&quot; Template für die statische Startseite nutzt. Die Auflösung "
+#~ "sollte 960px x 400px betragen."
+
+#~ msgid "This is the main colour of your page."
+#~ msgstr "Die Farbe für den Kopf Deiner Seite"
+
+#~ msgid "This is colour the gradient in header and buttons flows to."
+#~ msgstr "Zweite Farbe für den Farbverlauf"
+
+#~ msgid "Border colour for buttons."
+#~ msgstr "Rahmenfarbe für Buttons."
+
+#~ msgid "Changing the colour for links."
+#~ msgstr "Farbe für Links"
+
+#~ msgid "Changing the hover colour for links."
+#~ msgstr "Farbe für Links, wenn Du mit der Maus drüberfährst."
+
+#~ msgid "Changing the colour for the navigation bar."
+#~ msgstr "Farbe für die Navigationsleiste im Kopf."
+
+#~ msgid "Changing the colour for the navigation menu."
+#~ msgstr "Farbe für das Navigationsmenü."
+
+#~ msgid "<h2>Left Footer Widget</h2><p>Put in the content you want</p>"
+#~ msgstr "<h2>Linkes Footer Widget</h2><p>Fülle es mit beliebigem Content</p>"
+
+#~ msgid "<h2>Middle Footer Widget</h2><p>Put in the content you want</p>"
+#~ msgstr ""
+#~ "<h2>Mittleres Footer Widget</h2><p>Fülle es mit beliebigem Content</p>"
+
+#~ msgid "<h2>Right Footer Widget</h2><p>Put in the content you want</p>"
+#~ msgstr ""
+#~ "<h2>Rechtes Footer Widget</h2><p>Fülle es mit beliebigem Content</p>"
+
+#~ msgid "Footer Links"
+#~ msgstr "Footer Links"
+
+#~ msgid "Colours &amp; Layout"
+#~ msgstr "Farben &amp; Layout"
+
+#~ msgid "About %s"
+#~ msgstr "Über %s"
+
+#~ msgid "Colour settings"
+#~ msgstr "Farbeinstellungen"
+
+#~ msgid "HTML Kombinat Facebook Settings"
+#~ msgstr "HTML Kombinat Facebook-Konfiguration"
+
+#~ msgid "Facebook Settings"
+#~ msgstr "Facebook-Konfiguration"
+
+#~ msgid "Default Post-/Page Name"
+#~ msgstr "Standard Seiten- und Artikelname"
+
+#~ msgid "If your Post or Page Title is empty, we use this entry."
+#~ msgstr ""
+#~ "Wenn Dein Seiten- oder Artikelname nicht existiert, nutzen wir diesen "
+#~ "Eintrag."
+
+#~ msgid "Default Post-/Page Category"
+#~ msgstr "Standard Seiten-/Artikelkategorie"
+
+#~ msgid ""
+#~ "Use article for any URL that represents transient content - such as a "
+#~ "news article, blog post, photo, video, etc. Do not use website for this "
+#~ "purpose. website and blog are designed to represent an entire site, an og:"
+#~ "type tag with types website or blog should usually only appear on the "
+#~ "root of a domain."
+#~ msgstr "Empfehlung: Immer die Kategorie Article benutzen."
+
+#~ msgid "Your Facebook Settings"
+#~ msgstr "Deine Facebook-Konfiguration"
+
+#~ msgid "Your Facebook APP ID"
+#~ msgstr "Deine Facebook APP ID"
+
+#~ msgid "If you don't have any Facebook App, get one in at Facebook"
+#~ msgstr "Wenn Du keine Facebook-App hast, denn lege eine bei Facebook an."
+
+#~ msgid "Your Facebook APP Secret"
+#~ msgstr "Deine Facebook APP Secret"
+
+#~ msgid "You find your APP Secret in your Facebook App"
+#~ msgstr "Deine Facebook APP Secret findest Du in Deiner  Facebook App"
+
+#~ msgid "Your Facebook Admin IDs"
+#~ msgstr "Deine Facebook Admin IDs"
+
+#~ msgid "You can seperate multiple IDs with a &quot;,&quot;"
+#~ msgstr "Du kannst mehrere Admins mit einem Komma trennen."
+
+#~ msgid "What Comments should be shown?"
+#~ msgstr "Welche Kommentare sollen angezeigt werden?"
+
+#~ msgid ""
+#~ "You can decide which type of comments are shown on your posts. Facebook "
+#~ "comments, WordPress Comments or both. <strong>Notice, that your Facebook "
+#~ "APP ID is not empty, if you want to show Facebook Comments!</strong>"
+#~ msgstr ""
+#~ "Du kannst entscheiden, welche Kommentare auf Deiner Seite angezeigt "
+#~ "werden sollen. Nur WordPress, nur Facebook oder beides. <strong>Wenn "
+#~ "Deine Facebook App ID leer ist UND Du keine Facebook Admins angegeben "
+#~ "hast, können keine Kommentare von Facebook angezeigt werden!</strong>"
+
+#~ msgid "Only WordPress Comments"
+#~ msgstr "Nur WordPress-Kommentare"
+
+#~ msgid "Only Facebook Comments"
+#~ msgstr "Nur Facebook Kommentare"
+
+#~ msgid "WordPress AND Facebook Comments"
+#~ msgstr "WordPress- UND Facebook-Kommentare"
+
+#~ msgid "NONE"
+#~ msgstr "KEINE"
+
+#~ msgid "Startpage Left"
+#~ msgstr "Startseite Links"
+
+#~ msgid "Startpage Middle"
+#~ msgstr "Startseite Mitte"
+
+#~ msgid "Leave a Comment via Facebook"
+#~ msgstr "Hinterlasse einen Kommentar über Facebook"
+
+#~ msgid "HTML Kombinat Kombinat Facebook Settings"
+#~ msgstr "HTML Kombinat Facebook-Konfiguration"
+
+#~ msgid ""
+#~ "This site is powered by the HTML Kombinat Core. You can insert content by "
+#~ "using the widget &quot;Footer Left&quot;."
+#~ msgstr ""
+#~ "Dieses Template basiert auf dem HTML Kombinat Core. Sie können im Widget "
+#~ "&quot;Fußbereich Links&quot; Inhalte hinzufügen."
+
+#~ msgid ""
+#~ "This site is powered by the HTML Kombinat Core. You can insert content by "
+#~ "using the widget &quot;Footer Middle&quot;."
+#~ msgstr ""
+#~ "Dieses Template basiert auf dem HTML Kombinat Core. Sie können im Widget "
+#~ "&quot;Fußbereich Mitte&quot; Inhalte hinzufügen."
+
+#~ msgid ""
+#~ "This site is powered by the HTML Kombinat Core. You can insert content by "
+#~ "using the widget &quot;Footer Right&quot;."
+#~ msgstr ""
+#~ "Dieses Template basiert auf dem HTML Kombinat Core. Sie können im Widget "
+#~ "&quot;Fußbereich Rechts&quot; Inhalte hinzufügen."
+
+#~ msgid "Main colour"
+#~ msgstr "Hauptfarbe"
+
+#~ msgid "Main colour gradient"
+#~ msgstr "Farbverlauf"
+
+#~ msgid "Button border colour"
+#~ msgstr "Rahmenfarbe Buttons"
+
+#~ msgid "Link colour"
+#~ msgstr "Farbe für Links"
+
+#~ msgid "Link colour (hover)"
+#~ msgstr "Farbe für Links (Hover)"
+
+#~ msgid "Main navigation colour"
+#~ msgstr "Farbe für Hauptnavigation"
+
+#~ msgid "Navigation highlight colour"
+#~ msgstr "Farbe für Navigationsmeü"
+
+#~ msgid "HTML Kombinat"
+#~ msgstr "HTML Kombinat"
